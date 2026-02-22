@@ -1,3 +1,5 @@
+print("POLLER VERSION: REST API — no supabase client")
+
 """
 Bay Ridge Citi Bike — Stateless Polling Service
 ================================================
