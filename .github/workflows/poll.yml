@@ -2,7 +2,7 @@ name: Poll Citi Bike Live Data
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '*/7.5 * * * *'
   workflow_dispatch:
 
 jobs:
